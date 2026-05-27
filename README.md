@@ -51,14 +51,6 @@ The interface changes color automatically based on the current battery level.
 
 ---
 
-## Demo
-
-<p align="center">
-  <img src="assets/voltui-demo.gif" alt="VoltUI running in the terminal" width="700">
-</p>
-
----
-
 ## Project Structure
 
 ```txt
