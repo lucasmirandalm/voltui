@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/voltui-demo.gif" alt="VoltUI demo" width="700">
+  <img src="assets/voltui.gif" alt="VoltUI demo" width="700">
 </p>
 
 <p align="center">
