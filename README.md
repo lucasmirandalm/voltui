@@ -85,7 +85,7 @@ For development and testing:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/voltui.git
+git clone https://github.com/lucasmirandalm/voltui.git
 ```
 
 Enter the project folder:
